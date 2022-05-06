@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+&hide=html
 -->
 
 
@@ -23,7 +25,7 @@ Here are some ideas to get you started:
 <p align="center">
   	<img src ="https://github-readme-stats.vercel.app/api?username=georgevangelou&show_icons=true&count_private=true">
 	<br/>
-  	<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=georgevangelou&layout=compact&hide_border=true&count_private=true&hide=html">
+  	<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=georgevangelou&layout=compact&hide_border=true&count_private=true">
 	<br/>
  	<img src = "https://github-readme-streak-stats.herokuapp.com?user=georgevangelou&hide_border=true&count_private=true">
 </p>
