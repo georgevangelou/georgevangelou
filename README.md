@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <p align="center">
   	<img src ="https://github-readme-stats.vercel.app/api?username=georgevangelou&show_icons=true&count_private=true">
 	<br/>
-  	<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=georgevangelou&layout=compact&hide_border=true&count_private=true">
+  	<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=georgevangelou&layout=compact&hide_border=true&count_private=true&exclude_repo=A-framework-for-developing-Neural-Networks-in-hardware-accelerators">
 	<br/>
  	<img src = "https://github-readme-streak-stats.herokuapp.com?user=georgevangelou&hide_border=true&count_private=true">
 </p>
