@@ -21,10 +21,13 @@ Here are some ideas to get you started:
 <p align="center">About me: https://www.linkedin.com/in/gevangelou/</p>
 <h4 align="center">GitHub Stats</h4>
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=georgevangelou&show_icons=true&count_private=true">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=georgevangelou&layout=compact&hide_border=true">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=georgevangelou&hide_border=true">
+  	<img src ="https://github-readme-stats.vercel.app/api?username=georgevangelou&show_icons=true&count_private=true">
+	<br/>
+  	<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=georgevangelou&layout=compact&hide_border=true">
+	<br/>
+ 	<img src = "https://github-readme-streak-stats.herokuapp.com?user=georgevangelou&hide_border=true">
 </p>
+<br/>
 <p align="center">
 	<a href="https://www.linkedin.com/in/gevangelou/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
