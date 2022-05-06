@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 <p align="center">About me: https://www.linkedin.com/in/gevangelou/</p>
 <h4 align="center">GitHub Stats</h4>
 <p align="center">
-  	<img width="500" src ="https://github-readme-stats.vercel.app/api?username=georgevangelou&show_icons=true&count_private=true">
-	<br/>
-  	<img width="500" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=georgevangelou&layout=compact&hide_border=true&count_private=true&exclude_repo=A-framework-for-developing-Neural-Networks-in-hardware-accelerators">
-	<br/>
- 	<img width="500" src = "https://github-readme-streak-stats.herokuapp.com?user=georgevangelou&hide_border=true&count_private=true">
+  	<img width="350" src ="https://github-readme-stats.vercel.app/api?username=georgevangelou&show_icons=true&count_private=true">
+	<br/><br/>
+  	<img width="350" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=georgevangelou&layout=compact&hide_border=true&count_private=true&exclude_repo=A-framework-for-developing-Neural-Networks-in-hardware-accelerators">
+	<br/><br/>
+ 	<img width="350" src = "https://github-readme-streak-stats.herokuapp.com?user=georgevangelou&hide_border=true&count_private=true">
 </p>
 <br/>
 <p align="center">
