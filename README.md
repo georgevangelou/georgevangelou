@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="center">Hi! I am Georgios (Yioryos)</h3> <a href="https://www.linkedin.com/in/gevangelou/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+<h3 align="center">Hi! I am Georgios (Yioryos)</h3>
+<a align="center" href="https://www.linkedin.com/in/gevangelou/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
 <br/>
-<h4 align="center">GitHub Stats</h4>
+<h4 align="center">GitHub Stats:</h4>
 <p align="center">
   	<img width="500" src ="https://github-readme-stats.vercel.app/api?username=georgevangelou&show_icons=true&count_private=true">
 	<br/><br/>
