@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 
 
 <h3 align="center">Hi! I am Georgios (Yioryos)</h3>
-<a align="center" href="https://www.linkedin.com/in/gevangelou/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+<p align="center">
+	<a href="https://www.linkedin.com/in/gevangelou/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
 
 <br/>
 <h4 align="center">GitHub Stats:</h4>
