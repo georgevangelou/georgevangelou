@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="center">Hi! I am Georgios (Yioryos)</h3>
-<p align="center">About me: https://www.linkedin.com/in/gevangelou/</p>
+<h3 align="center">Hi! I am Georgios (Yioryos)</h3> <a href="https://www.linkedin.com/in/gevangelou/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+
+<br/>
 <h4 align="center">GitHub Stats</h4>
 <p align="center">
   	<img width="500" src ="https://github-readme-stats.vercel.app/api?username=georgevangelou&show_icons=true&count_private=true">
@@ -28,8 +29,4 @@ Here are some ideas to get you started:
   	<img width="350" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=georgevangelou&layout=compact&hide_border=true&count_private=true&exclude_repo=A-framework-for-developing-Neural-Networks-in-hardware-accelerators">
 	<br/><br/>
  	<img width="350" src = "https://github-readme-streak-stats.herokuapp.com?user=georgevangelou&hide_border=true&count_private=true">	
-</p>
-<br/>
-<p align="center">
-	<a href="https://www.linkedin.com/in/gevangelou/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
